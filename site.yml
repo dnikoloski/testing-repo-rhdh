@@ -1,0 +1,5 @@
+---
+- name: Example playbook
+  hosts: localhost
+  roles:
+    - role: testspace_rhdh_collection.test_collection_rhdh.run
